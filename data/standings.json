@@ -209,10 +209,10 @@
     "type": "Team",
     "category": "Men",
     "results": {
-      "first": "",
-      "second": "",
-      "third": "",
-      "fourth": ""
+      "first": "Hostel 1",
+      "second": "Hostel 3",
+      "third": "Hostel 4",
+      "fourth": "Hostel 2"
     }
   },
   {
