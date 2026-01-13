@@ -1,0 +1,278 @@
+[
+  {
+    "id": "1767996158897",
+    "sport": "Table Tennis",
+    "type": "Team",
+    "category": "Men",
+    "results": {
+      "first": "Hostel 1",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1",
+    "sport": "Cricket",
+    "type": "Team",
+    "category": "Women",
+    "results": {
+      "first": "Hostel 1",
+      "second": "Hostel 2",
+      "third": "Hostel 3",
+      "fourth": "Hostel 4"
+    }
+  },
+  {
+    "id": "2",
+    "sport": "100m Sprint",
+    "type": "Standard",
+    "category": "Men",
+    "results": {
+      "first": "Hostel 3",
+      "second": "Hostel 1",
+      "third": "Hostel 4",
+      "fourth": "Hostel 2"
+    }
+  },
+  {
+    "id": "3",
+    "sport": "Tug of War",
+    "type": "Tug of War",
+    "category": "Men",
+    "results": {
+      "first": "Hostel 2",
+      "second": "Hostel 4",
+      "third": "Hostel 1",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "4",
+    "sport": "Tug of War",
+    "type": "Tug of War",
+    "category": "Women",
+    "results": {
+      "first": "Hostel 1",
+      "second": "Hostel 3",
+      "third": "Hostel 2",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000001",
+    "sport": "Volleyball",
+    "type": "Team",
+    "category": "Women",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000002",
+    "sport": "Chess",
+    "type": "Team",
+    "category": "Women",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000004",
+    "sport": "Squash",
+    "type": "Team",
+    "category": "Women",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000005",
+    "sport": "Basketball",
+    "type": "Team",
+    "category": "Women",
+    "results": {
+      "first": "Hostel 4",
+      "second": "Hostel 3",
+      "third": "Hostel 2",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000006",
+    "sport": "Football",
+    "type": "Team",
+    "category": "Men",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000007",
+    "sport": "Athletics",
+    "type": "Standard",
+    "category": "Women",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000008",
+    "sport": "Powerlifting",
+    "type": "Standard",
+    "category": "Women",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000009",
+    "sport": "Badminton",
+    "type": "Team",
+    "category": "Women",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000010",
+    "sport": "Table Tennis",
+    "type": "Team",
+    "category": "Women",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000011",
+    "sport": "Athletics",
+    "type": "Standard",
+    "category": "Men",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000012",
+    "sport": "Badminton",
+    "type": "Team",
+    "category": "Men",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000013",
+    "sport": "Basketball",
+    "type": "Team",
+    "category": "Men",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000014",
+    "sport": "Chess",
+    "type": "Team",
+    "category": "Men",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000015",
+    "sport": "Cricket",
+    "type": "Team",
+    "category": "Men",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000016",
+    "sport": "Squash",
+    "type": "Team",
+    "category": "Men",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  },
+  {
+    "id": "1768322000017",
+    "sport": "Volleyball",
+    "type": "Team",
+    "category": "Men",
+    "results": {
+      "first": "Hostel 1",
+      "second": "Hostel 3",
+      "third": "Hostel 2",
+      "fourth": "Hostel 4"
+    }
+  },
+  {
+    "id": "1768322000018",
+    "sport": "Weightlifting",
+    "type": "Standard",
+    "category": "Men",
+    "results": {
+      "first": "Hostel 1",
+      "second": "Hostel 3",
+      "third": "Hostel 4",
+      "fourth": "Hostel 3"
+    }
+  },
+  {
+    "id": "1768322000019",
+    "sport": "Powerlifting",
+    "type": "Standard",
+    "category": "Men",
+    "results": {
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
+    }
+  }
+]

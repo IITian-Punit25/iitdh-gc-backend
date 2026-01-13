@@ -1,0 +1,229 @@
+[
+  {
+    "id": "1",
+    "name": "Hostel 1",
+    "members": [
+      {
+        "name": "Aarav Sharma",
+        "year": "3rd Year",
+        "branch": "CSE",
+        "isCaptain": true,
+        "image": ""
+      },
+      {
+        "name": "Ishan Verma",
+        "year": "2nd Year",
+        "branch": "EE",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Riya Gupta",
+        "year": "4th Year",
+        "branch": "ME",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Ananya Reddy",
+        "year": "1st Year",
+        "branch": "ECE",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Vihaan Kumar",
+        "year": "3rd Year",
+        "branch": "M&C",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Aditya Mishra",
+        "year": "2nd Year",
+        "branch": "BS-MS",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Kavya Patel",
+        "year": "4th Year",
+        "branch": "EP",
+        "isCaptain": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Hostel 2",
+    "members": [
+      {
+        "name": "Sneha Chopra",
+        "year": "5th Year",
+        "branch": "EEE",
+        "isCaptain": true,
+        "image": ""
+      },
+      {
+        "name": "Diya Iyer",
+        "year": "3rd Year",
+        "branch": "CSE",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Rohan Mehta",
+        "year": "5th Year",
+        "branch": "ECE",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Rohit Saxena",
+        "year": "1st Year",
+        "branch": "EE",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Priya Malhotra",
+        "year": "3rd Year",
+        "branch": "EE",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Kavya Singh",
+        "year": "1st Year",
+        "branch": "C&BE",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Anika Jain",
+        "year": "5th Year",
+        "branch": "M&C",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Priya Roy",
+        "year": "2nd Year",
+        "branch": "EE",
+        "isCaptain": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Hostel 3",
+    "members": [
+      {
+        "name": "Rohit Patel",
+        "year": "4th Year",
+        "branch": "C&IE",
+        "isCaptain": true,
+        "image": ""
+      },
+      {
+        "name": "Rohan Gupta",
+        "year": "4th Year",
+        "branch": "BS-MS",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Sneha Joshi",
+        "year": "4th Year",
+        "branch": "BS-MS",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Pari Roy",
+        "year": "4th Year",
+        "branch": "BS-MS",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Rohan Tiwari",
+        "year": "4th Year",
+        "branch": "ECE",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Aarav Nair",
+        "year": "4th Year",
+        "branch": "CSE",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Vikram Jain",
+        "year": "2nd Year",
+        "branch": "M&C",
+        "isCaptain": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Hostel 4",
+    "members": [
+      {
+        "name": "Anika Jain",
+        "year": "1st Year",
+        "branch": "CSE",
+        "isCaptain": true,
+        "image": ""
+      },
+      {
+        "name": "Vihaan Patel",
+        "year": "2nd Year",
+        "branch": "EP",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Vikram Sharma",
+        "year": "3rd Year",
+        "branch": "C&BE",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Vihaan Singh",
+        "year": "2nd Year",
+        "branch": "C&BE",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Rahul Gupta",
+        "year": "3rd Year",
+        "branch": "ME",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Arjun Patel",
+        "year": "2nd Year",
+        "branch": "ECE",
+        "isCaptain": false,
+        "image": ""
+      },
+      {
+        "name": "Myra Roy",
+        "year": "4th Year",
+        "branch": "C&IE",
+        "isCaptain": false,
+        "image": ""
+      }
+    ]
+  }
+]

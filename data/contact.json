@@ -1,0 +1,37 @@
+{
+  "email": "sports@iitdh.ac.in",
+  "phone": "+91 1234567890",
+  "address": "IIT Dharwad, Karnataka, India",
+  "socialMedia": {
+    "instagram": "https://instagram.com/iitdh_sports",
+    "twitter": "https://twitter.com/iitdh_sports",
+    "youtube": "https://youtube.com/@iitdh_sports"
+  },
+  "coordinators": [
+    {
+      "name": "Sports Secretary",
+      "role": "General Coordinator",
+      "phone": "+91 9876543210",
+      "image": "https://images.radiocity.in/images/uploads/web-stories/wsscfc_ws.png",
+      "imageType": "url"
+    },
+    {
+      "name": "Assistant Secretary",
+      "role": "Event Coordinator",
+      "phone": "+91 9876543211",
+      "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=AssistantSecretary"
+    },
+    {
+      "name": "Punit kashyap",
+      "role": "sdgfasdfgsd",
+      "phone": "09910227540"
+    },
+    {
+      "name": "punit kumar",
+      "role": "tech team",
+      "phone": "9910227540",
+      "image": "",
+      "imageType": "url"
+    }
+  ]
+}

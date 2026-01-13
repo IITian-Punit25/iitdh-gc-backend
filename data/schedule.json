@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1767995999326",
+    "sport": "Tug of War",
+    "category": "Women",
+    "teamA": "Hostel 2",
+    "teamB": "Hostel 3",
+    "date": "2026-02-04",
+    "time": "03:35",
+    "venue": "Hello"
+  },
+  {
+    "id": "1",
+    "sport": "Volleyball",
+    "teamA": "Hostel 3",
+    "teamB": "Hostel 1",
+    "date": "2025-10-25",
+    "time": "9:30 AM",
+    "venue": "Volleyball Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "2",
+    "sport": "Chess",
+    "teamA": "Hostel 4",
+    "teamB": "Hostel 2",
+    "date": "2025-10-18",
+    "time": "12:30 PM",
+    "venue": "Chess Room",
+    "status": "Upcoming"
+  },
+  {
+    "id": "3",
+    "sport": "Tennis",
+    "teamA": "Hostel 1",
+    "teamB": "Hostel 2",
+    "date": "2025-10-26",
+    "time": "11:00 AM",
+    "venue": "Tennis Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "4",
+    "sport": "Cricket",
+    "teamA": "Hostel 1",
+    "teamB": "Hostel 3",
+    "date": "2025-10-20",
+    "time": "11:00 AM",
+    "venue": "Main Ground",
+    "status": "Upcoming"
+  },
+  {
+    "id": "5",
+    "sport": "Volleyball",
+    "teamA": "Hostel 1",
+    "teamB": "Hostel 3",
+    "date": "2025-10-25",
+    "time": "4:30 PM",
+    "venue": "Volleyball Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "6",
+    "sport": "Squash",
+    "teamA": "Hostel 2",
+    "teamB": "Hostel 4",
+    "date": "2025-10-23",
+    "time": "1:00 PM",
+    "venue": "Squash Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "7",
+    "sport": "Tennis",
+    "teamA": "Hostel 2",
+    "teamB": "Hostel 3",
+    "date": "2025-10-20",
+    "time": "1:00 PM",
+    "venue": "Tennis Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "8",
+    "sport": "Squash",
+    "teamA": "Hostel 3",
+    "teamB": "Hostel 4",
+    "date": "2025-10-28",
+    "time": "12:30 PM",
+    "venue": "Squash Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "9",
+    "sport": "Volleyball",
+    "teamA": "Hostel 3",
+    "teamB": "Hostel 1",
+    "date": "2025-10-20",
+    "time": "9:00 AM",
+    "venue": "Volleyball Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "10",
+    "sport": "Table Tennis",
+    "teamA": "Hostel 4",
+    "teamB": "Hostel 1",
+    "date": "2025-10-22",
+    "time": "2:30 PM",
+    "venue": "TT Hall",
+    "status": "Upcoming"
+  },
+  {
+    "id": "11",
+    "sport": "Cricket",
+    "teamA": "Hostel 2",
+    "teamB": "Hostel 4",
+    "date": "2025-10-27",
+    "time": "10:30 AM",
+    "venue": "Main Ground",
+    "status": "Upcoming"
+  },
+  {
+    "id": "12",
+    "sport": "Tennis",
+    "teamA": "Hostel 1",
+    "teamB": "Hostel 4",
+    "date": "2025-10-19",
+    "time": "11:00 AM",
+    "venue": "Tennis Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "13",
+    "sport": "Chess",
+    "teamA": "Hostel 2",
+    "teamB": "Hostel 1",
+    "date": "2025-10-15",
+    "time": "11:00 AM",
+    "venue": "Chess Room",
+    "status": "Upcoming"
+  },
+  {
+    "id": "14",
+    "sport": "Basketball",
+    "teamA": "Hostel 2",
+    "teamB": "Hostel 4",
+    "date": "2025-10-25",
+    "time": "2:00 PM",
+    "venue": "Basketball Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "15",
+    "sport": "Squash",
+    "teamA": "Hostel 3",
+    "teamB": "Hostel 4",
+    "date": "2025-10-24",
+    "time": "1:30 PM",
+    "venue": "Squash Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "16",
+    "sport": "Cricket",
+    "teamA": "Hostel 4",
+    "teamB": "Hostel 3",
+    "date": "2025-10-23",
+    "time": "9:30 AM",
+    "venue": "Main Ground",
+    "status": "Upcoming"
+  },
+  {
+    "id": "17",
+    "sport": "Football",
+    "teamA": "Hostel 3",
+    "teamB": "Hostel 2",
+    "date": "2025-10-18",
+    "time": "4:30 PM",
+    "venue": "Football Field",
+    "status": "Upcoming"
+  },
+  {
+    "id": "18",
+    "sport": "Cricket",
+    "teamA": "Hostel 3",
+    "teamB": "Hostel 1",
+    "date": "2025-10-22",
+    "time": "3:00 PM",
+    "venue": "Main Ground",
+    "status": "Upcoming"
+  },
+  {
+    "id": "19",
+    "sport": "Athletics",
+    "teamA": "Hostel 1",
+    "teamB": "Hostel 2",
+    "date": "2025-10-15",
+    "time": "2:30 PM",
+    "venue": "Athletics Track",
+    "status": "Upcoming"
+  },
+  {
+    "id": "20",
+    "sport": "Chess",
+    "teamA": "Hostel 3",
+    "teamB": "Hostel 2",
+    "date": "2025-10-17",
+    "time": "11:00 AM",
+    "venue": "Chess Room",
+    "status": "Upcoming"
+  },
+  {
+    "id": "21",
+    "sport": "Tennis",
+    "teamA": "Hostel 4",
+    "teamB": "Hostel 2",
+    "date": "2025-10-28",
+    "time": "9:00 AM",
+    "venue": "Tennis Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "22",
+    "sport": "Chess",
+    "teamA": "Hostel 2",
+    "teamB": "Hostel 4",
+    "date": "2025-10-21",
+    "time": "3:30 PM",
+    "venue": "Chess Room",
+    "status": "Upcoming"
+  },
+  {
+    "id": "23",
+    "sport": "Volleyball",
+    "teamA": "Hostel 2",
+    "teamB": "Hostel 4",
+    "date": "2025-10-26",
+    "time": "1:30 PM",
+    "venue": "Volleyball Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "24",
+    "sport": "Tennis",
+    "teamA": "Hostel 3",
+    "teamB": "Hostel 2",
+    "date": "2025-10-16",
+    "time": "3:30 PM",
+    "venue": "Tennis Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "25",
+    "sport": "Tennis",
+    "teamA": "Hostel 2",
+    "teamB": "Hostel 4",
+    "date": "2025-10-22",
+    "time": "4:00 PM",
+    "venue": "Tennis Court",
+    "status": "Upcoming"
+  },
+  {
+    "id": "1767995509301",
+    "sport": "Powerlifting",
+    "category": "Men",
+    "teamA": "Hostel 1",
+    "teamB": "Hostel 2",
+    "date": "2026-01-29",
+    "time": "03:27",
+    "venue": "Gym"
+  }
+]
