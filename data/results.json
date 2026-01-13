@@ -21,7 +21,9 @@
     "winner": "Draw",
     "date": "2025-10-07",
     "liveLink": "",
-    "streamStatus": "Ended"
+    "streamStatus": "Ended",
+    "scoreSheetType": "url",
+    "scoreSheetLink": "https://docs.google.com/spreadsheets/d/1KMhJz5c-yTK2UpYMYE4CINucJewmXjU3ai3pz_2mUw0/edit?gid=0#gid=0"
   },
   {
     "id": "3",
@@ -200,8 +202,9 @@
     "scoreB": "1",
     "winner": "Hostel 3",
     "date": "2025-10-09",
-    "liveLink": "cvbxcvbxcvb",
-    "streamStatus": "Live"
+    "liveLink": "https://youtu.be/A66TYFdz8YA?si=LaPz6ojoVlKGZVJC",
+    "streamStatus": "Upcoming",
+    "scoreSheetLink": "https://docs.google.com/spreadsheets/d/11BL2NbSuxyzEw686GUefXiS1YckLa6-SzPk0jbPMBeQ/edit?gid=0#gid=0"
   },
   {
     "id": "18",
@@ -236,7 +239,7 @@
     "scoreB": "2",
     "winner": "Hostel 2",
     "date": "2025-10-10",
-    "liveLink": "",
+    "liveLink": "https://youtu.be/A66TYFdz8YA?si=LaPz6ojoVlKGZVJC",
     "streamStatus": "Ended"
   }
 ]
