@@ -1,18 +1,28 @@
 import express from 'express';
-import { loadData, saveData } from '../utils/dataHandler.js';
+import Schedule from '../models/Schedule.js';
 
 const router = express.Router();
 
-router.get('/', (req, res) => {
-    const schedule = loadData('schedule.json');
-    res.json(schedule);
+router.get('/', async (req, res) => {
+    try {
+        const schedule = await Schedule.find();
+        res.json(schedule);
+    } catch (error) {
+        console.error('Error fetching schedule:', error);
+        res.status(500).json({ error: 'Server Error' });
+    }
 });
 
-router.post('/', (req, res) => {
-    if (saveData('schedule.json', req.body)) {
+router.post('/', async (req, res) => {
+    try {
+        await Schedule.deleteMany({});
+        if (Array.isArray(req.body) && req.body.length > 0) {
+            await Schedule.insertMany(req.body);
+        }
         req.app.get('io').emit('dataUpdate', { type: 'schedule' });
         res.json({ success: true, message: 'Schedule saved successfully' });
-    } else {
+    } catch (error) {
+        console.error('Error saving schedule:', error);
         res.status(500).json({ success: false, message: 'Error saving schedule' });
     }
 });
