@@ -31,6 +31,7 @@ io.on('connection', (socket) => {
 
 const PORT = process.env.PORT || 5000;
 
-httpServer.listen(PORT, () => {
+// Adding '0.0.0.0' is the key fix
+httpServer.listen(PORT, '0.0.0.0', () => {
     console.log(`Server running on port ${PORT}`);
 });
