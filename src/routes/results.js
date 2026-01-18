@@ -1,5 +1,6 @@
 import express from 'express';
 import Result from '../models/Result.js';
+import passwordCheck from '../middleware/passwordCheck.js';
 
 const router = express.Router();
 
@@ -13,7 +14,7 @@ router.get('/', async (req, res) => {
     }
 });
 
-router.post('/', async (req, res) => {
+router.post('/', passwordCheck, async (req, res) => {
     try {
         await Result.deleteMany({});
         if (Array.isArray(req.body) && req.body.length > 0) {

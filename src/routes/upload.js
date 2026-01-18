@@ -1,9 +1,11 @@
 import express from 'express';
 import { upload } from '../config/multer.js';
 
+import passwordCheck from '../middleware/passwordCheck.js';
+
 const router = express.Router();
 
-router.post('/', upload.single('image'), (req, res) => {
+router.post('/', passwordCheck, upload.single('image'), (req, res) => {
     if (!req.file) {
         return res.status(400).json({ success: false, message: 'No file uploaded' });
     }

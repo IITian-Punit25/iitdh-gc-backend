@@ -1,6 +1,8 @@
 import express from 'express';
 import Team from '../models/Team.js';
 
+import passwordCheck from '../middleware/passwordCheck.js';
+
 const router = express.Router();
 
 router.get('/', async (req, res) => {
@@ -13,7 +15,7 @@ router.get('/', async (req, res) => {
     }
 });
 
-router.post('/', async (req, res) => {
+router.post('/', passwordCheck, async (req, res) => {
     try {
         // Clear existing and insert new data (matching previous behavior)
         await Team.deleteMany({});

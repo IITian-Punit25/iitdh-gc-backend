@@ -1,6 +1,8 @@
 import express from 'express';
 import Schedule from '../models/Schedule.js';
 
+import passwordCheck from '../middleware/passwordCheck.js';
+
 const router = express.Router();
 
 router.get('/', async (req, res) => {
@@ -13,7 +15,7 @@ router.get('/', async (req, res) => {
     }
 });
 
-router.post('/', async (req, res) => {
+router.post('/', passwordCheck, async (req, res) => {
     try {
         await Schedule.deleteMany({});
         if (Array.isArray(req.body) && req.body.length > 0) {

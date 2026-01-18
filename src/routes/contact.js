@@ -1,6 +1,8 @@
 import express from 'express';
 import Contact from '../models/Contact.js';
 
+import passwordCheck from '../middleware/passwordCheck.js';
+
 const router = express.Router();
 
 router.get('/', async (req, res) => {
@@ -20,7 +22,7 @@ router.get('/', async (req, res) => {
     }
 });
 
-router.post('/', async (req, res) => {
+router.post('/', passwordCheck, async (req, res) => {
     try {
         // Upsert - update if exists, create if not
         await Contact.deleteMany({});
