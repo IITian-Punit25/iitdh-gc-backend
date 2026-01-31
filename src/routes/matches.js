@@ -1,5 +1,6 @@
 import express from 'express';
 import Match from '../models/Match.js';
+import passwordCheck from '../middleware/passwordCheck.js';
 
 const router = express.Router();
 
@@ -14,8 +15,8 @@ router.get('/', async (req, res) => {
     }
 });
 
-// Create a match
-router.post('/', async (req, res) => {
+// Create a match (now protected with passwordCheck)
+router.post('/', passwordCheck, async (req, res) => {
     const { sport, teamA, teamB, date } = req.body;
 
     if (!sport || !teamA || !teamB || !date) {
@@ -30,6 +31,8 @@ router.post('/', async (req, res) => {
             date,
             status: 'SCHEDULED'
         });
+        // Emit socket.io event for live updates
+        req.app.get('io').emit('dataUpdate', { type: 'matches' });
         res.status(201).json(match);
     } catch (err) {
         console.error('Error creating match:', err);
@@ -38,3 +41,4 @@ router.post('/', async (req, res) => {
 });
 
 export default router;
+
